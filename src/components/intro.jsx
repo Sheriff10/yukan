@@ -9,7 +9,8 @@ export default function Intro() {
                <div className=" kk d-flex text-uppercase justify-content-center align-items-center col-lg-6 col-12 col-md-12">
                   <div className="intro-text text-center  py-3">
                      <h1 className="fw-bold">
-                        we have backing, <br /> we are <small className="text-yukan fw-bold">Yukan</small>
+                        <small className="text-yukan fw-bold">Yukan,</small> YOU
+                        CAN! , <br /> we can!
                      </h1>
                      <span>Inspiring, Building and creating...</span>
                      <div className="btn-con mt-4">
@@ -23,8 +24,7 @@ export default function Intro() {
                            href="#"
                            className="btn btn-sm m-1 text-yukan fw-bold rounded-pill px-5 mx-2"
                         >
-                           Buy {" "}
-                           <FaCartPlus />
+                           Buy <FaCartPlus />
                         </a>
                      </div>
                   </div>
