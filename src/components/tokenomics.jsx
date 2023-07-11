@@ -27,6 +27,10 @@ export default function Tokenomics() {
                         <th>Tax</th>
                         <td>7/7%</td>
                      </tr>
+                     <tr>
+                        <th>Reward (1%)</th>
+                        <td>$DTG for holders </td>
+                     </tr>
                   </table>
                   {/* <div className="d-flex fs-5 ">
                      <div className="col">
