@@ -1,7 +1,7 @@
 {
     "cards": [
-        {"title": "Community Driven", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."},
-        {"title": "Liquidity Locked", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."},
-        {"title": "Burn", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."}
+        {"title": "Community Driven", "text": "Yukan token is backed  by a stron and active community"},
+        {"title": "Liquidity Locked", "text": "Token Liquidity is locked, which means token is safe for trading."},
+        {"title": "Burn", "text": "50% of $Yukan is burned, which makes the token scarce and enable spike in price"}
     ]
 }

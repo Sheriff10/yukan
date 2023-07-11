@@ -18,7 +18,7 @@ export default function Roadmap() {
       <div className="roadmap text-white py-5" id="roadmap">
          <div className="container">
             <div className="r-head text-uppercase text-center py-4">
-               <h1>Roadmap</h1>
+               <h1><span>Road</span>map</h1>
             </div>
             <div className="r-body">
                <div class="row">

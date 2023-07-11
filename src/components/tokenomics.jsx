@@ -6,7 +6,7 @@ export default function Tokenomics() {
       <div className="tokenomics pb-5" id="tokenomics">
          <div className="container">
             <div className="tk-head d-flex justify-content-center">
-               <h1 className="text-yukan fw-bold">Tokenomics</h1>
+               <h1 className="text-yukan fw-bold"><span>Token</span>omics</h1>
             </div>
             <div className="tk-card text-break d-flex justify-content-center">
                <div className="col-lg-6 wrap p-5 mt-4 col-md-8 col-12">

@@ -9,7 +9,7 @@ export default function Intro() {
                <div className=" kk d-flex text-uppercase justify-content-center align-items-center col-lg-6 col-12 col-md-12">
                   <div className="intro-text text-center  py-3">
                      <h1 className="fw-bold">
-                        YUKAN, Fuck'em YOU <br /> CAN DO IT
+                        we have backing, <br /> we are <small className="text-yukan fw-bold">Yukan</small>
                      </h1>
                      <span>Inspiring, Building and creating...</span>
                      <div className="btn-con mt-4">
