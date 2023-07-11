@@ -25,7 +25,7 @@ export default function Roadmap() {
                   <div className="col-12 col-lg-6 col-md-6 p-5 ">
                      <div className="r-card p-3 bg-light rounded text-black">
                         <div className="r-card-head py-2 mb-1 border-bottom border-primary">
-                           <h4 className="fw-bold text-yukan">Q1</h4>
+                           <h1 className="fw-bold text-yukan">Q1</h1>
                         </div>
                         <div className="r-card-body">
                            <ul className="m-0 p-0">
@@ -44,7 +44,7 @@ export default function Roadmap() {
                   <div className="col-12 col-lg-6 col-md-6 p-5 ">
                      <div className="r-card p-3 bg-light rounded text-black">
                         <div className="r-card-head py-2 mb-1 border-bottom border-primary">
-                           <h4 className="fw-bold text-yukan">Q1</h4>
+                           <h1 className="fw-bold text-yukan">Q1</h1>
                         </div>
                         <div className="r-card-body">
                            <ul className="m-0 p-0">
@@ -63,7 +63,7 @@ export default function Roadmap() {
                   <div className="col-12 col-lg-6 col-md-6 p-5 ">
                      <div className="r-card p-3 bg-light rounded text-black">
                         <div className="r-card-head py-2 mb-1 border-bottom border-primary">
-                           <h4 className="fw-bold text-yukan">Q1</h4>
+                           <h1 className="fw-bold text-yukan">Q1</h1>
                         </div>
                         <div className="r-card-body">
                            <ul className="m-0 p-0">
@@ -82,7 +82,7 @@ export default function Roadmap() {
                   <div className="col-12 col-lg-6 col-md-6 p-5 ">
                      <div className="r-card p-3 bg-light rounded text-black">
                         <div className="r-card-head py-2 mb-1 border-bottom border-primary">
-                           <h4 className="fw-bold text-yukan">Q1</h4>
+                           <h1 className="fw-bold text-yukan">Q1</h1>
                         </div>
                         <div className="r-card-body">
                            <ul className="m-0 p-0">

@@ -11,7 +11,7 @@ export default function About() {
             </div> */}
             <div className="row align-items-center">
                <div className="col-lg-6 col-md-6 col-12">
-                  <img src="lh.avif" alt="About Yukan" className="img-fluid" width={"400px"} />
+                  <img src="lh.png" alt="About Yukan" className="img-fluid" width={"400px"} />
                </div>
                <div className="col-lg-6 col-md-6 col-12">
                   <div className="abt-text p-4 mb-3">

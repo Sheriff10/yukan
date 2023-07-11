@@ -1,12 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Ceviche+One&family=Mali&family=Pirata+One&display=swap");
 .text-yukan {
-    color: #800404;
+   color: #800404;
 }
-.bg-yukan{
-    background: #800404;
+.bg-yukan {
+   background: #800404;
 }
-.hover:yukan{
-    background: #b30404;
+.hover:yukan {
+   background: #b30404;
 }
 .text-right {
-    text-align: right;
+   text-align: right;
+}
+
+#root h1, #root h3  {
+   font-family: "Ceviche One", cursive;
+}
+#root span, #root .btn {
+   font-family: "Audiowide", cursive;
+}
+
+#root small, #root li, #root a{
+    font-family: 'Mali', cursive;
 }
