@@ -1,0 +1,12 @@
+.text-yukan {
+    color: #800404;
+}
+.bg-yukan{
+    background: #800404;
+}
+.hover:yukan{
+    background: #b30404;
+}
+.text-right {
+    text-align: right;
+}
