@@ -36,9 +36,9 @@ export default function About() {
                      </small>
                      <div className="mt-4">
                         <a
-                           href="./YUKAN WHITEPAPER.pdf"
+                           // href="./YUKAN WHITEPAPER.pdf"
                            className="btn btn-lg rounded-pill bg-yukan text-white"
-                           download
+                           // download
                         >
                            Read Whitepaper
                         </a>
