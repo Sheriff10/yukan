@@ -15,14 +15,16 @@ export default function Intro() {
                      <span>Inspiring, Building and creating...</span>
                      <div className="btn-con mt-4">
                         <a
-                           href="#"
+                           href="https://poocoin.app/tokens/0xd086b849a71867731d74d6bb5df4f640de900171"
                            className="btn btn-sm m-1 text-light rounded-pill px-5"
+                           target={"_blank"}
                         >
                            <FaChartLine /> Chart
                         </a>
                         <a
-                           href="#"
+                           href="https://poocoin.app/tokens/0xd086b849a71867731d74d6bb5df4f640de900171"
                            className="btn btn-sm m-1 text-yukan fw-bold rounded-pill px-5 mx-2"
+                           target={"_blank"}
                         >
                            Buy <FaCartPlus />
                         </a>

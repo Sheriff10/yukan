@@ -34,7 +34,6 @@ export default function Roadmap() {
                               {liFunc("Fair Launch")}
                               {liFunc("Social Media Handles Creation")}
                               {liFunc("Community Building")}
-                              {liFunc("First CEX Listing")}
                               {liFunc("First Listing.")}
                            </ul>
                         </div>

@@ -25,17 +25,14 @@ export default function About() {
                      </span>{" "}
                      <br />
                      <small className="fs-6">
-                        YUKAN token is a meme token launched on the 14th of July
-                        2023. YUKAN started off with a Liquidity of only $18 and
-                        a Market Cap of $49. Our aim is to be a witness to the
-                        world that greatness can come from little things if
-                        diligence, dedication and smart work is put in. We began
-                        at such little stage just to prove this. We will be used
-                        as that foolish thing that will confound the wise! We
-                        will Witness that though our beginnings be small, our
-                        latter end shall greatly increase. The YUKAN team is a
-                        hardworking team that is consistently putting in the
-                        work but our Greatest advantage is that WE HAVE BACKING!
+                        YUKAN Token, launched on July 14, 2023, started with a
+                        liquidity of $18 and a market cap of $49. As a meme
+                        token, our sincere team aims to demonstrate that
+                        greatness can come from humble beginnings with
+                        diligence, dedication, and smart work. We believe in
+                        confounding the wise and witnessing exponential growth.
+                        Backed by a hardworking team, YUKAN has a promising
+                        future.
                      </small>
                      <div className="mt-4">
                         <a

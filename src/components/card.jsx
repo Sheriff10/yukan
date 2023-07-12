@@ -2,7 +2,7 @@ import React from "react";
 import { FaFire, FaLock, FaUsers } from "react-icons/fa";
 import cards from "./cards.json";
 export default function Card() {
-    const icon = [<FaUsers />, <FaLock />,  <FaFire />]
+   const icon = [<FaUsers />, <FaLock />, <FaFire />];
    return (
       <div className="cards pb-4">
          <div className="container">
@@ -10,9 +10,7 @@ export default function Card() {
                <h1 className="fw-bold">
                   <span className="text-yukan"> Yukan</span> Token
                </h1>
-               <small>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-               </small>
+               <small>WE HAVE BACKING</small>
             </div>
             <div className="row">
                {cards.cards.map((i, index) => (
@@ -24,11 +22,8 @@ export default function Card() {
                            </i>
                         </div>
                         <div className="c-card-text text-center">
-                           <span className="fw-bold">{i.title}</span>{" "}
-                           <br />
-                           <small className="text-muted">
-                              {i.text}
-                           </small>
+                           <span className="fw-bold">{i.title}</span> <br />
+                           <small className="text-muted">{i.text}</small>
                         </div>
                      </div>
                   </div>
