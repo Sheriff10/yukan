@@ -22,7 +22,7 @@ export default function Footer() {
                <span className="text-yukan">$Yukan</span> andlatest trend
             </small>
             <div className="p-5 fs-2 row">
-               <div className="col my-4">
+               <div className="col-lg-3 col-6 col-md-6 my-4">
                   <a
                      href="https://twitter.com/yukantokennew?s=21"
                      className="p-3 bg-yukan m-3 text-white rounded"
@@ -32,7 +32,7 @@ export default function Footer() {
                      <FaTwitterSquare />{" "}
                   </a>
                </div>
-               <div className="col my-4">
+               <div className="col-lg-3 col-6 col-md-6 my-4">
                   <a
                      href="https://t.me/+XSRoQswrJnkzYjk8"
                      className="p-3 bg-yukan m-3 text-white rounded"
@@ -42,7 +42,7 @@ export default function Footer() {
                      <FaTelegram />{" "}
                   </a>
                </div>
-               <div className="col my-4">
+               <div className="col-lg-3 col-6 col-md-6 my-4">
                   <a
                      href="mailto:Yukantoken1@gmail.com"
                      className="p-3 bg-yukan m-3 text-white rounded"
@@ -51,7 +51,7 @@ export default function Footer() {
                      <FaEnvelope />{" "}
                   </a>
                </div>
-               <div className="col my-4">
+               <div className="col-lg-3 col-6 col-md-6 my-4">
                   <a
                      href="https://instagram.com/yukantoken?igshid=OGQ5ZDc2ODk2ZA=="
                      className="p-3 bg-yukan m-3 text-white rounded"
