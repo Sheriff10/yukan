@@ -25,7 +25,7 @@ export default function About() {
                      </span>{" "}
                      <br />
                      <small className="fs-6">
-                        YUKAN Token, launched on July 14, 2023, started with a
+                        YUKAN Token, launched on June 14, 2023, started with a
                         liquidity of $18 and a market cap of $49. As a meme
                         token, our sincere team aims to demonstrate that
                         greatness can come from humble beginnings with
