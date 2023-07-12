@@ -2,6 +2,17 @@ import React from "react";
 import { FaCopy } from "react-icons/fa";
 
 export default function Tokenomics() {
+   function copyToClipboard() {
+      navigator.clipboard
+         .writeText("0xd086B849a71867731D74D6bB5Df4f640de900171")
+         .then(() => {
+            alert("Address Copied");
+         })
+         .catch((error) => {
+            console.error("Error copying text to clipboard:", error);
+            alert("Error copying text to clipboard!");
+         });
+   }
    return (
       <div className="tokenomics pb-5" id="tokenomics">
          <div className="container">
@@ -55,12 +66,12 @@ export default function Tokenomics() {
                         0xd086B849a71867731D74D6bB5Df4f640de900171
                      </small>{" "}
                      <br />
-                     <a
-                        href="#"
+                     <button
                         className="btn btn-sm rounded-pill bg-yukan text-white"
-                     >
+                        onClick={copyToClipboard}
+                     >  
                         <FaCopy /> Copy Address
-                     </a>
+                     </button>
                   </div>
                </div>
             </div>

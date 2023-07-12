@@ -31,7 +31,7 @@ export default function Roadmap() {
                         </div>
                         <div className="r-card-body">
                            <ul className="m-0 p-0">
-                              {liFunc("Fair Launch")}
+                              {liFunc("Stealth Launch")}
                               {liFunc("Social Media Handles Creation")}
                               {liFunc("Community Building")}
                               {liFunc("First Listing.")}
