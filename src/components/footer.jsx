@@ -66,7 +66,7 @@ export default function Footer() {
          <div className="f-body p-3 text-muted fs-5 text-center">
             <span>
                {" "}
-               <span className="text-yukan fw-bold">YUKAN</span> © 2022.All
+               <span className="text-yukan fw-bold">YUKAN</span> © 2023. All
                Right Reserved
             </span>
          </div>
