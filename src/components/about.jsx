@@ -39,8 +39,10 @@ export default function About() {
                            // href="./YUKAN WHITEPAPER.pdf"
                            className="btn btn-lg rounded-pill bg-yukan text-white"
                            // download
+                           href="https://yukantoken.gitbook.io/yukan-token/"
+                           target={'_blank'}
                         >
-                           Read Whitepaper
+                          Yukan Docs
                         </a>
                      </div>
                   </div>
